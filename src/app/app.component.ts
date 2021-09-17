@@ -1,8 +1,4 @@
 import { Component } from '@angular/core';
-import '@astrouxds/rux-status';
-import '@astrouxds/rux-icon';
-import '@astrouxds/rux-monitoring-icon';
-import '@astrouxds/rux-monitoring-icon/rux-monitoring-progress-icon';
 
 @Component({
   selector: 'app-root',
