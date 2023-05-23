@@ -1,3 +1,4 @@
+# NOTE: This repository is archived. The new home of the Astro AG Grid theme is https://github.com/RocketCommunicationsInc/ag-grid-theme
 # AgGridApp
 Demo application for testing custom Astro CSS styling.
 
